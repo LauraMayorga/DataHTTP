@@ -33,5 +33,20 @@
             "bookImage": "https://laflechanegra.files.wordpress.com/2014/10/cao-xueqin-suec3b1o-1.jpg",
             "dueDate": "10/07/2022"
         }
+    ],
+  
+  "myLoans" :[
+        {
+            "bookName": "Don Quijote de la Mancha",
+            "bookAuthor": "Miguel de Cervantes",
+            "bookImage": "https://imagenes.elpais.com/resizer/RPQmu6paFxwmz1UySUD05dJVMbE=/1960x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/7BN7MROFVTFLCFQ2FXZPUC3Y3E.jpg",
+            "dueDate": "10/04/2022"
+        },
+    {
+            "bookName": "El señor de los anillos",
+            "bookAuthor": "J. R. R. Tolkien",
+            "bookImage":"https://www.librosdemario.com/covers/86/67/cover.jpg",
+            "dueDate": "28/02/2023"
+        }
     ]
 }
