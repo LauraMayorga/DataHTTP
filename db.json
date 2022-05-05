@@ -1,7 +1,7 @@
 {
   "notifications": [
         {
-            "booId": 8,
+            "bookId": 8,
             "bookName": "Six of crows",
             "bookAuthor": "Leigh Bardugo",
             "bookImage": "https://www.editorialhidra.com/media/hidra/images/cover-118707.jpg",
@@ -9,7 +9,7 @@
             "userName": "Amelia"
         },
         {
-            "booId": 10,
+            "bookId": 10,
             "bookName": "El código Da Vinci",
             "bookAuthor": "Dan Brown",
             "bookImage": "https://images.cdn3.buscalibre.com/fit-in/360x360/d2/74/d2745514f8ea4de663d5c8c659a162b2.jpg",
